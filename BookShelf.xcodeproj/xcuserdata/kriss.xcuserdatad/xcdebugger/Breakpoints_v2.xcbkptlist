@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AC1192EF-226D-4011-B343-05CF890F8E9F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06559FB0-5385-4440-91EF-D0948346B8FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookShelf/AppContainer/ShelfDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ShelfDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "06559FB0-5385-4440-91EF-D0948346B8FB - 904ecb71c96d0b3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookShelf.ShelfDetailViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BookShelf.ShelfDetailViewController"
+                  moduleName = "BookShelf.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kriss/Desktop/%D1%85%D0%B5%D0%BB%D0%BF%D0%B5%D1%80/IOS/BookShelf/BookShelf/AppContainer/ShelfDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "06559FB0-5385-4440-91EF-D0948346B8FB - 27f0324095ae5895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookShelf.ShelfDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BookShelf.ShelfDetailViewController"
+                  moduleName = "BookShelf.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kriss/Desktop/%D1%85%D0%B5%D0%BB%D0%BF%D0%B5%D1%80/IOS/BookShelf/BookShelf/AppContainer/ShelfDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "06559FB0-5385-4440-91EF-D0948346B8FB - 5713f156b87e6be9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookShelf.ShelfDetailViewController.__deallocating_deinit"
+                  moduleName = "BookShelf.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kriss/Desktop/%D1%85%D0%B5%D0%BB%D0%BF%D0%B5%D1%80/IOS/BookShelf/BookShelf/AppContainer/ShelfDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

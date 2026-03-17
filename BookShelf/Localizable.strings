@@ -1,0 +1,51 @@
+//
+//  Localizable.strings
+//  BookShelf
+//
+//  Created by Kriss Osina on 10.01.2026.
+//
+
+// Localizable.strings (Russian)
+"welcome.title" = "Welcome to BookShelf";
+"welcome.subtitle" = "Место, где живут книги";
+"total.shelves" = "Всего полок: %d";
+"total.books" = "Всего книг: %d";
+"create.shelf" = "+ Создать полку";
+"library.title" = "Библиотека";
+"search.title" = "Поиск";
+"profile.title" = "Профиль";
+"search.placeholder" = "Поиск книг по названию, автору...";
+"no.books.found" = "Книги не найдены";
+"add.to.library" = "Добавить в библиотеку";
+"cancel" = "Отмена";
+"save" = "Сохранить";
+"edit" = "Редактировать";
+"delete" = "Удалить";
+"achievements" = "Достижения";
+"personal.data" = "Личные данные";
+"statistics" = "Статистика";
+"reading.stats" = "Статистика чтения";
+"your.achievements" = "Ваши достижения";
+"change.avatar" = "Изменить аватар";
+"user.name" = "Имя:";
+"user.email" = "Email:";
+"book.title" = "Название:";
+"book.author" = "Автор:";
+"book.genre" = "Жанр:";
+"book.year" = "Год:";
+"book.pages" = "Страниц:";
+"book.rating" = "Оценка:";
+"book.start.date" = "Дата начала:";
+"book.finish.date" = "Дата окончания:";
+"book.annotation" = "Аннотация:";
+"book.review" = "Отзыв:";
+"select.shelf" = "Выберите полку:";
+"no.shelves" = "Нет полок (создайте в библиотеке)";
+"save.book" = "Сохранить книгу";
+"book.added" = "Книга добавлена в библиотеку";
+"error" = "Ошибка";
+"success" = "Успешно";
+"create.new.shelf" = "Создать новую полку";
+"shelf.name" = "Название полки";
+"create" = "Создать";
+"details" = "Подробнее";
